@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/gomin-diary/.github/main/profile/assets/leaf.svg" width="32" height="32" alt=""> 고민일기
+# <picture><img src="https://raw.githubusercontent.com/gomin-diary/.github/main/profile/assets/leaf.svg" width="32" height="32" alt=""></picture> 고민일기
 
 **오늘의 고민을 한 장의 그림일기로**
 
